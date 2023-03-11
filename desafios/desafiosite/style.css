@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+    background-color: #00ff8075;
+}
+
+header {
+    background-color: springgreen;
+    margin: 0px;
+    background-image: linear-gradient(#60BF81, #347355, #3B8C66);
+}
+
+h1#principal {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.principal {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+
+
+nav > a {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bolder;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+main {
+    background-color: white;
+    
+}
+
+.titulo2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4e9065;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4e9065;
+    padding-left: 10px;
+}
+
+p {
+    text-indent: 30px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4e9065af;
+    color: white;
+    padding-left: 10px;
+}
+
+section {
+    background-color:#00ff8075;
+    margin: 20px;
+}
+
+.extra {
+    margin: 0px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #347355;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
